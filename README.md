@@ -1,2 +1,2 @@
-# CS-230-
+# CS-230
 Coursework done in CS-230 Operating Platforms
